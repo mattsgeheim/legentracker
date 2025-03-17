@@ -1,2 +1,1 @@
-TEST TUAH
-AND TEST
+"Pufferfish Cannon","Emerald Blade","Mjolnir","Shadow Blade","Enderbow","Lich Staff","Reinforced Elytra","Poseidon's Trident","Ravager Horn","Hypnosis Staff","Wither Sickles","Gerald the Sniffer","Jim the Sorcerer","Guardian Cannon","Harpoon Launcher","Excalibur","Crimson Chainsword"
